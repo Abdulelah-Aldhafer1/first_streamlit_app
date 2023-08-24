@@ -1,3 +1,4 @@
-import streamlit 
+import streamlit as st
 
-streamlit.title('Hello everyone')
+st.title("Hello, world!")
+st.write("This is my first Streamlit app.")
